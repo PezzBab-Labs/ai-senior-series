@@ -22,17 +22,19 @@ Building AI agents or apps is beyond the scope of these initial sessions.
 
 ## What's here
 
-- Session 1 — Foundations, Detecting AI, and Real Risk
-What AI actually does, how to think about AI-generated content you often can't reliably detect, and how to build a verification habit that actually protects against AI-enabled scams.
+- **Session 1 — Foundations, Detecting AI, and Real Risk**  
+  What AI actually does, how to think about AI-generated content you often can't reliably detect, and how to build a verification habit that actually protects against AI-enabled scams.
 
-- Session 2 — Use Cases and Tools 
-An introduction to AI tools for financial clarity, learning/legacy projects, and understanding medical visits, each covered with its strengths and limitations.
 
-- Session 3 — The Harder Questions 
-A facilitated discussion on AI and creative work, age and learning, companionship, social implications, and personal ethics.
+- **Session 2 — Use Cases and Tools**  
+  An introduction to AI tools for financial clarity, learning/legacy projects, and understanding medical visits, each covered with its strengths and limitations.
 
-- Session 4 — Current Topics
-Applying what your learned in Session 1 to real, recent cases: AI-generated content shaping news and public opinion, security incidents where people were scammed or manipulated without realizing AI was involved, and instances of AI acting or expanding capability in ways their own developers didn't anticipate. 
+
+- **Session 3 — The Harder Questions**  
+  A facilitated discussion on AI and creative work, age and learning, companionship, social implications, and personal ethics.
+
+- **Session 4 — Current Topics**  
+  Applying what your learned in Session 1 to real, recent cases: AI-generated content shaping news and public opinion, security incidents where people were scammed or manipulated without realizing AI was involved, and instances of AI acting or expanding capability in ways their own developers didn't anticipate. 
 
 <br>
 
